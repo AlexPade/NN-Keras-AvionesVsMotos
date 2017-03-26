@@ -4,8 +4,7 @@
 #												#
 #################################################
 
-#python directorios.py /ruta/de/la/carpeta/aTransformar nombreDelArchivo.h5
-
+#python directorios.py /ruta/de/la/carpeta/aTransformar 
 
 import os
 import sys
